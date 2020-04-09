@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test Node Vanilla and NodeJS",
+  "main": "index.js",
+  "author": "Park Jin",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
